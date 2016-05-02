@@ -19,9 +19,7 @@ using System.Threading.Tasks;
         /// </param>
         public static void Main(string[] args)
         {
-            Console.WriteLine("test");
-            System.Diagnostics.Trace.TraceError("Error occurred");
-            Console.ReadKey();
+            //TODO
         }
     }
 }
