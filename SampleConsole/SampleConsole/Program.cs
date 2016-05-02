@@ -20,6 +20,7 @@ using System.Threading.Tasks;
         public static void Main(string[] args)
         {
             Console.WriteLine("test");
+            Console.WriteLine("test1");
             Console.ReadKey();
         }
     }
