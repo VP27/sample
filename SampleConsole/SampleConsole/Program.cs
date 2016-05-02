@@ -20,7 +20,7 @@ using System.Threading.Tasks;
         public static void Main(string[] args)
         {
             Console.WriteLine("test");
-            System.Diagnostics.Trace.TraceError("Error occurred");
+            //System.Diagnostics.Trace.TraceError("Error occurred");
             Console.ReadKey();
         }
     }
